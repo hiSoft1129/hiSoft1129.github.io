@@ -1,0 +1,24 @@
+:root{
+  /* Color: blueprint navy base + copper signal accent */
+  --bg: #0E1E32;
+  --bg-panel: #142A44;
+  --bg-panel-hi: #1A3452;
+  --line: #2F517A;
+  --line-soft: #223F60;
+  --line-bright: #7FB0DB;
+  --text: #E9F1F8;
+  --text-muted: #8CA7C1;
+  --text-dim: #5D7896;
+  --accent: #E7A23D;
+  --accent-dim: #B87E2C;
+  --accent-glow: rgba(231,162,61,0.35);
+
+  /* Shape */
+  --radius: 3px;
+  --maxw: 1180px;
+
+  /* Type */
+  --display: 'Space Grotesk', sans-serif;
+  --body: 'Inter', sans-serif;
+  --mono: 'IBM Plex Mono', monospace;
+}
